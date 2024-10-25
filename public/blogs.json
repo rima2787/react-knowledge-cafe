@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/B2XFRX2/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Exploring the Quantum Realm",
+        "author": "Alex Turner",
+        "author_img": "",
+        "posted_date": "2023-07-10",
+        "reading_time": "5 min",
+        "hashtags": [
+            "#QuantumPhysics",
+            "#Science",
+            "#Exploration"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/B2XFRX2/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Mastering Python for Data Science",
+        "author": "Sophia Li",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": "10 min",
+        "hashtags": [
+            "#Python",
+            "#DataScience",
+            "#MachineLearning"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/B2XFRX2/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "The Art of Minimalism",
+        "author": "Michael Chen",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-06-21",
+        "reading_time": "7 min",
+        "hashtags": [
+            "#Minimalism",
+            "#Lifestyle",
+            "#Art"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/B2XFRX2/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "A Guide to Digital Nomadism",
+        "author": "Lily Williams",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2023-08-02",
+        "reading_time": "12 min",
+        "hashtags": [
+            "#Travel",
+            "#RemoteWork",
+            "#DigitalNomad"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/B2XFRX2/create-your-own-brand-words-woman-working-laptop-background.jpg",
+        "title": "Blockchain Beyond Bitcoin",
+        "author": "James Smith",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2023-07-29",
+        "reading_time": "8 min",
+        "hashtags": [
+            "#Blockchain",
+            "#Cryptocurrency",
+            "#Innovation"
+        ]
+    }
+]
